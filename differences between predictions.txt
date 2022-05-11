@@ -1,0 +1,39 @@
+positive difference between prediction of final 's' of plurals
+on 575 occurrences 
+non modified and random sub:
+ {'one': 295, 'two': 390, 'five': 303, 'ten': 269}
+
+non modified and random DROP
+ {'one': 297, 'two': 297, 'five': 334, 'ten': 290}
+
+non modified and random consonant sub
+{'one': 291, 'two': 294, 'five': 319, 'ten': 351}
+
+non modified and random consonant drop
+{'one': 331, 'two': 296, 'five': 359, 'ten': 300}
+
+non modified and random vowel sub
+{'one': 253, 'two': 331, 'five': 422, 'ten': 259}
+
+non modified and random vowel drop
+{'one': 158, 'two': 244, 'five': 241, 'ten': 290}
+
+positive difference between prediction of final 's' or 'd' as verbal markers
+on 625 occurrences 
+non modified and random sub:
+{'one': 357, 'two': 311, 'five': 290, 'ten': 365}
+
+non modified and random drop
+{'one': 313, 'two': 299, 'five': 382, 'ten': 348}
+
+non modified and random consonants sub
+{'one': 357, 'two': 311, 'five': 337, 'ten': 353}
+
+non modified and random consonants drop
+{'one': 274, 'two': 251, 'five': 361, 'ten': 320}
+
+non modified and random vowel sub
+{'one': 298, 'two': 260, 'five': 337, 'ten': 287}
+
+non modified and random vowel drop
+{'one': 361, 'two': 376, 'five': 320, 'ten': 357}
